@@ -1,0 +1,32 @@
+te mode 100755 redis-6.0.10/utils/install_server.sh
+ create mode 100644 redis-6.0.10/utils/lru/README
+ create mode 100644 redis-6.0.10/utils/lru/lfu-simulation.c
+ create mode 100644 redis-6.0.10/utils/lru/test-lru.rb
+ create mode 100644 redis-6.0.10/utils/redis-copy.rb
+ create mode 100644 redis-6.0.10/utils/redis-sha1.rb
+ create mode 100755 redis-6.0.10/utils/redis_init_script
+ create mode 100755 redis-6.0.10/utils/redis_init_script.tpl
+ create mode 100755 redis-6.0.10/utils/releasetools/01_create_tarball.sh
+ create mode 100755 redis-6.0.10/utils/releasetools/02_upload_tarball.sh
+ create mode 100755 redis-6.0.10/utils/releasetools/03_test_release.sh
+ create mode 100755 redis-6.0.10/utils/releasetools/04_release_hash.sh
+ create mode 100755 redis-6.0.10/utils/releasetools/changelog.tcl
+ create mode 100755 redis-6.0.10/utils/speed-regression.tcl
+ create mode 100644 redis-6.0.10/utils/srandmember/README.md
+ create mode 100644 redis-6.0.10/utils/srandmember/showdist.rb
+ create mode 100644 redis-6.0.10/utils/srandmember/showfreq.rb
+ create mode 100644 redis-6.0.10/utils/systemd-redis_multiple_servers@.service
+ create mode 100644 redis-6.0.10/utils/systemd-redis_server.service
+ create mode 100644 redis-6.0.10/utils/tracking_collisions.c
+ create mode 100755 redis-6.0.10/utils/whatisdoing.sh
+root@97799848b50d:/alx-backend/0x03-queuing_system_in_js# git push
+Username for 'https://github.com': muenijohn
+Password for 'https://muenijohn@github.com':
+No refs in common and none specified; doing nothing.
+Perhaps you should specify a branch such as 'master'.
+Everything up-to-date
+root@97799848b50d:/alx-backend/0x03-queuing_system_in_js# git config --global user.name "muenijohn"
+root@97799848b50d:/alx-backend/0x03-queuing_system_in_js# git config --global user.email "pmueni592@gmail.com"
+root@97799848b50d:/alx-backend/0x03-queuing_system_in_js# git add .
+
+
